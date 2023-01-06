@@ -37,6 +37,7 @@ C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\D
 C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.csproj.CopyComplete
 C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.exe
 C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.pdb
+<<<<<<< HEAD
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\bin\Debug\DemoDataGridview.exe.config
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\bin\Debug\DemoDataGridview.exe
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\bin\Debug\DemoDataGridview.pdb
@@ -56,3 +57,8 @@ C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGrid
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.csproj.CopyComplete
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.exe
 C:\Users\85589\Documents\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.pdb
+=======
+C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.frmSaleView.resources
+C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.frmSplash.resources
+C:\Users\KINGLY-BL\Documents\GitHub\phamacy-management-system\DemoDataGridview\DemoDataGridview\obj\Debug\DemoDataGridview.frmLogin.resources
+>>>>>>> 23faa421c7e73b874adf97653d4672054b9f0a64

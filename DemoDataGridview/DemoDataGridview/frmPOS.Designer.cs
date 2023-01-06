@@ -150,7 +150,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.Gray;
+            this.panel2.BackColor = System.Drawing.Color.Khaki;
             this.panel2.Controls.Add(this.lblStock);
             this.panel2.Controls.Add(this.btnClear);
             this.panel2.Controls.Add(this.btnRemove);
@@ -169,7 +169,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(817, 192);
             this.panel2.TabIndex = 1;
-            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
             // lblStock
             // 
@@ -411,6 +410,7 @@
             this.btnView.TabIndex = 18;
             this.btnView.Text = "View";
             this.btnView.UseVisualStyleBackColor = true;
+            this.btnView.Click += new System.EventHandler(this.btnView_Click);
             // 
             // btnClearAll
             // 
